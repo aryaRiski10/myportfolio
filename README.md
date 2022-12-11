@@ -1,3 +1,3 @@
 # Portfolio
 My Portfolio (test)
-Link : https://faryariski.github.io/Portfolio/
+Link : https://aryariski10.github.io/myportfolio/
